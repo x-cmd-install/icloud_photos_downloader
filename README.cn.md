@@ -1,61 +1,61 @@
 # icloud_photos_downloader
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 A command-line tool to download photos from iCloud
 
-![icloud_photos_downloader](https://repo.x-cmd.io/icloud_photos_downloader.svg)
+![icloud_photos_downloader](https://repo.x-cmd.io/icloud_photos_downloader.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install icloud_photos_downloader
 ```
 
-## Code insight
+## 代码洞察
 
-Total: **620,729** lines of code across **149** files in the top 5 languages.
+合计: **620,729** 行代码（覆盖前 5 种语言、共 **149** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Yaml | 604,550 | 0 | 10 | 35 |
 | Python | 15,084 | 762 | 2,457 | 82 |
 | Html | 257 | 0 | 4 | 9 |
 | Sh | 206 | 33 | 36 | 2 |
 | Bash | 179 | 91 | 57 | 21 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **3.3 / 10**
+总评分: **3.3 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/icloud-photos-downloader/icloud_photos_downloader>
-- **License**: MIT
+- **上游仓库**: <https://github.com/icloud-photos-downloader/icloud_photos_downloader>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v1.32.3` (2026-05-30)
-- **Last commit**: 2026-05-30
-- **Assets in release**: 29
+- **最新版本**: `v1.32.3` (2026-05-30)
+- **最近提交**: 2026-05-30
+- **Release 含资产**: 29 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 12,226 · **Forks**: 830 · **Open issues**: 654 · **Contributors**: 43
+- **Star**: 12,226 · **Fork**: 830 · **开放 issue**: 654 · **贡献者**: 43
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 81 · **Merged PRs**: 379 · **Open PRs**: 37 · **Closed issues**: 513 · **Open issues**: 141 · **Commits**: 994
+- **发布数**: 81 · **已合并 PR**: 379 · **开放 PR**: 37 · **已关闭 issue**: 513 · **开放 issue**: 141 · **提交数**: 994
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 4 | 0 |
 | last60d | 2026-07-12 | 0 | 0 | 4 | 1 | 10 | 0 |
@@ -64,10 +64,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 1 | 4 | 23 | 15 | 55 | 14 |
 | last720d | 2024-09-20 | 29 | 104 | 36 | 118 | 89 | 185 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [compatibility-1.32.3.md](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/compatibility-1.32.3.md) | 4.6 KiB | `other` |
 | [icloud-1.32.3-linux-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-amd64) | 32.0 MiB | `native/linux/x64` |
 | [icloud-1.32.3-linux-arm32v7](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-arm32v7) | 29.6 MiB | `native/linux/arm` |
@@ -98,13 +98,13 @@ Lowest-scoring checks:
 | [notes-1.32.3.md](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/notes-1.32.3.md) | 5.1 KiB | `other` |
 | [tzlc-1.32.3.md](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/tzlc-1.32.3.md) | 4.5 KiB | `other` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for icloud_photos_downloader lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `icloud_photos_downloader` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+icloud_photos_downloader 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `icloud_photos_downloader` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/icloud_photos_downloader.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/icloud_photos_downloader.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:44:30Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:44:31Z._
