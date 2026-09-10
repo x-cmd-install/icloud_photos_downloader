@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.32.3"
   latestRelease: "v1.32.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:16:34Z
+  collectedAt: 2026-09-10T23:44:20Z
 timeline:
   created: 2016-05-13
   lastCommit: 2026-05-30
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-30
   lastPrerelease: 
 popularity:
-  star: 12225
+  star: 12226
   watcher: 115
   fork: 830
   release: 81
@@ -89,7 +89,7 @@ total:
   commit: 994
 ---
 path: /home/runner/.x-repo/github.com/icloud-photos-downloader/icloud_photos_downloader
-collectedAt: 2026-09-10T18:16:40Z
+collectedAt: 2026-09-10T23:44:25Z
 loc:
   Yaml:
     code: 604550
