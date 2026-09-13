@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4761,
       "digest": "sha256:7a141c06f6d9b1dd2d5ddfc83a4bc01bad7fffbdb040f9fa1cdf6c2388c7b179",
-      "download_count": 174,
+      "download_count": 175,
       "created_at": "2026-05-30T22:06:57Z",
       "updated_at": "2026-05-30T22:06:57Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/compatibility-1.32.3.md"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33540104,
       "digest": "sha256:656ae6784a34e99bebea0fe144d83ead91993f071af3e674964f7c22b5b2b556",
-      "download_count": 1229,
+      "download_count": 1245,
       "created_at": "2026-05-30T22:06:55Z",
       "updated_at": "2026-05-30T22:06:57Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 31005452,
       "digest": "sha256:85e63cab9e66fdba8915f288688a9c017b899384a6b1dcf57f428c7a45cfe5fc",
-      "download_count": 45,
+      "download_count": 46,
       "created_at": "2026-05-30T22:06:53Z",
       "updated_at": "2026-05-30T22:06:55Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-arm32v7"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 32889544,
       "digest": "sha256:98f58bad633634b3ed061f0ad5687ba95dd543946010c5b653fa71bdabf179fb",
-      "download_count": 903,
+      "download_count": 914,
       "created_at": "2026-05-30T22:06:51Z",
       "updated_at": "2026-05-30T22:06:53Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 14287704,
       "digest": "sha256:93b978d1f75163439277c43d533044333c82e1a46e036d19c32f2b5942685d7a",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-05-30T22:06:48Z",
       "updated_at": "2026-05-30T22:06:49Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-musl-arm32v7"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 18162584,
       "digest": "sha256:3af1c137d367e8668b40058d4d7e7bb205976003137c69c5834ac6f618603182",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-05-30T22:06:47Z",
       "updated_at": "2026-05-30T22:06:48Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-musl-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12486368,
       "digest": "sha256:b00d050ca0fc07d10d0acae884c04e5d749b626f15bc7c360a9578f2e722a65f",
-      "download_count": 774,
+      "download_count": 787,
       "created_at": "2026-05-30T22:06:46Z",
       "updated_at": "2026-05-30T22:06:47Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-macos-amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 13551232,
       "digest": "sha256:2ed2e01e897b3fc03109b93ee0fcdf209318903cd553753ae738127193165fd8",
-      "download_count": 1682,
+      "download_count": 1699,
       "created_at": "2026-05-30T22:06:44Z",
       "updated_at": "2026-05-30T22:06:45Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-windows-amd64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 35196936,
       "digest": "sha256:cbe4de08f715a9b524795eccd75f33a97661cd27fa7f0282c58611d760fce093",
-      "download_count": 1266,
+      "download_count": 1285,
       "created_at": "2026-05-30T22:06:42Z",
       "updated_at": "2026-05-30T22:06:44Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloudpd-1.32.3-linux-amd64"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 13970752,
       "digest": "sha256:f47e30e76462c219d92856e6b955919ae9ffda89742ac1a8a35a35336c960965",
-      "download_count": 409,
+      "download_count": 415,
       "created_at": "2026-05-30T22:06:32Z",
       "updated_at": "2026-05-30T22:06:33Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloudpd-1.32.3-macos-amd64"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 79082,
       "digest": "sha256:47435bb6e221255d8db620b7e83b1a588b0794d7e41d32448ac9b6d141828357",
-      "download_count": 53,
+      "download_count": 56,
       "created_at": "2026-05-30T22:06:03Z",
       "updated_at": "2026-05-30T22:06:03Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloudpd-1.32.3-py3-none-any.whl"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 15090334,
       "digest": "sha256:b691ada7a7404460a79358008586b77784b7b82fb09372f90f5c845e7eacb584",
-      "download_count": 1408,
+      "download_count": 1429,
       "created_at": "2026-05-30T22:06:01Z",
       "updated_at": "2026-05-30T22:06:02Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloudpd-1.32.3-windows-amd64.exe"
