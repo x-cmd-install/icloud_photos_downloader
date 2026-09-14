@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,234 · **Forks**: 830 · **Open issues**: 655 · **Contributors**: 43
+- **Stars**: 12,235 · **Forks**: 830 · **Open issues**: 655 · **Contributors**: 43
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 3 | 0 | 3 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 4 | 0 | 10 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 5 | 1 | 13 | 0 |
-| last180d | 2026-03-17 | 1 | 3 | 12 | 7 | 21 | 13 |
-| 360d | 2025-09-18 | 1 | 4 | 23 | 15 | 53 | 14 |
-| last720d | 2024-09-23 | 29 | 104 | 36 | 117 | 90 | 185 |
+| 30d | 2026-08-15 | 0 | 0 | 3 | 0 | 2 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 4 | 0 | 10 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 5 | 1 | 13 | 0 |
+| last180d | 2026-03-18 | 1 | 3 | 12 | 7 | 21 | 13 |
+| 360d | 2025-09-19 | 1 | 4 | 23 | 15 | 53 | 14 |
+| last720d | 2024-09-24 | 29 | 104 | 36 | 117 | 90 | 185 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for icloud_photos_downloader lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:12:41Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:30:57Z._
