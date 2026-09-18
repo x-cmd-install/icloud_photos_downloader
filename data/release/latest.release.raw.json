@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33540104,
       "digest": "sha256:656ae6784a34e99bebea0fe144d83ead91993f071af3e674964f7c22b5b2b556",
-      "download_count": 1293,
+      "download_count": 1305,
       "created_at": "2026-05-30T22:06:55Z",
       "updated_at": "2026-05-30T22:06:57Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 32889544,
       "digest": "sha256:98f58bad633634b3ed061f0ad5687ba95dd543946010c5b653fa71bdabf179fb",
-      "download_count": 950,
+      "download_count": 958,
       "created_at": "2026-05-30T22:06:51Z",
       "updated_at": "2026-05-30T22:06:53Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17959360,
       "digest": "sha256:4ea9e1141197bc13992abeb22fd5f620ffc7bea3636221ed63d4d0f7041ef5dc",
-      "download_count": 46,
+      "download_count": 47,
       "created_at": "2026-05-30T22:06:50Z",
       "updated_at": "2026-05-30T22:06:51Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-linux-musl-amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12486368,
       "digest": "sha256:b00d050ca0fc07d10d0acae884c04e5d749b626f15bc7c360a9578f2e722a65f",
-      "download_count": 818,
+      "download_count": 830,
       "created_at": "2026-05-30T22:06:46Z",
       "updated_at": "2026-05-30T22:06:47Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-macos-amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 13551232,
       "digest": "sha256:2ed2e01e897b3fc03109b93ee0fcdf209318903cd553753ae738127193165fd8",
-      "download_count": 1779,
+      "download_count": 1801,
       "created_at": "2026-05-30T22:06:44Z",
       "updated_at": "2026-05-30T22:06:45Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloud-1.32.3-windows-amd64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 35196936,
       "digest": "sha256:cbe4de08f715a9b524795eccd75f33a97661cd27fa7f0282c58611d760fce093",
-      "download_count": 1328,
+      "download_count": 1339,
       "created_at": "2026-05-30T22:06:42Z",
       "updated_at": "2026-05-30T22:06:44Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloudpd-1.32.3-linux-amd64"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 13970752,
       "digest": "sha256:f47e30e76462c219d92856e6b955919ae9ffda89742ac1a8a35a35336c960965",
-      "download_count": 433,
+      "download_count": 436,
       "created_at": "2026-05-30T22:06:32Z",
       "updated_at": "2026-05-30T22:06:33Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloudpd-1.32.3-macos-amd64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 25874830,
       "digest": "sha256:e9160be87ce20358eadf50402d944b41616c0ed28d532449a2dbce61182878de",
-      "download_count": 116,
+      "download_count": 118,
       "created_at": "2026-05-30T22:06:21Z",
       "updated_at": "2026-05-30T22:06:23Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloudpd-1.32.3-py2.py3-none-macosx_13_0_x86_64.macosx_13_0_arm64.whl"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 37271438,
       "digest": "sha256:e6646af413ff56073bae81cc4fb86cbdfced432fc5783b3ba2b8f23c23f52ce6",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-05-30T22:06:09Z",
       "updated_at": "2026-05-30T22:06:11Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloudpd-1.32.3-py2.py3-none-musllinux_1_2_aarch64.whl"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 15090334,
       "digest": "sha256:b691ada7a7404460a79358008586b77784b7b82fb09372f90f5c845e7eacb584",
-      "download_count": 1515,
+      "download_count": 1526,
       "created_at": "2026-05-30T22:06:01Z",
       "updated_at": "2026-05-30T22:06:02Z",
       "browser_download_url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.32.3/icloudpd-1.32.3-windows-amd64.exe"
@@ -1086,8 +1086,8 @@
   "body": "## 1.32.3 (2026-05-29)\n\n- fix: restore 2FA for Apple's updated auth flow (2026+) [#1322]https://github.com/icloud-photos-downloader/icloud_photos_downloader/issues/1322\n- fix: Update staticx to 0.14.2 with --no-build-isolation to resolve pkg_resources and SCons build failures on Python 3.13/Trixie\n- fix: Update Dockerfile.build-musl Alpine base from 3.19 to 3.23 to resolve Cargo lock file version 4 incompatibility\n\n## Minimal Effort Compatibility\nChecks if `icloudpd` can be installed using minimal effort and ran bare minimum functionality of displaying a version information. Minimal effort may require installing default version of package manager using OS tools\n\nVersion: version:1.32.3, commit sha:879c561, commit timestamp:Sat May 30 21:42:22 2026 UTC\n\n\nCompatibility rate: 48.3% (168 passed out of 348)\n\nLegend:\n- N/A - not applicable/available\n- pass - test pass\n- fail - test fail\n- pass (src) - Test pass using src (for pip)\n\n### bin\nCompatibility rate: 95.1% (77 passed out of 81)\n\nOSes and distros|amd64|arm64|arm32v7\n-|-|-|-\nalpine_3_10|pass|pass|pass\nalpine_3_11|pass|pass|pass\nalpine_3_12|pass|pass|pass\nalpine_3_13|pass|pass|pass\nalpine_3_14|pass|pass|pass\nalpine_3_15|pass|pass|pass\nalpine_3_16|pass|pass|pass\nalpine_3_17|pass|pass|pass\nalpine_3_18|pass|pass|pass\nalpine_3_19|pass|pass|pass\nalpine_3_20|pass|pass|pass\nalpine_3_21|pass|pass|pass\nalpine_3_22|pass|pass|pass\ndebian_10_buster|pass|pass|pass\ndebian_11_bullseye|pass|pass|pass\ndebian_12_bookworm|pass|pass|pass\ndebian_7_wheezy|pass|pass|pass\ndebian_8_jessie|pass|pass|pass\ndebian_9_stretch|pass|pass|pass\nmacos-14|pass|pass|N/A\nubuntu_12_precise|pass|fail|N/A\nubuntu_14_trusty|pass|pass|pass\nubuntu_16_xenial|fail|fail|fail\nubuntu_18_bionic|pass|pass|pass\nubuntu_20_focal|pass|pass|pass\nubuntu_22_jammy|pass|pass|pass\nubuntu_24_noble|pass|pass|pass\nwindows-2022|pass|N/A|N/A\nwindows-2025|pass|N/A|N/A\n### bin-musl\nCompatibility rate: 11.7% (9 passed out of 77)\n\nOSes and distros|amd64|arm64|arm32v7\n-|-|-|-\nalpine_3_10|fail|fail|fail\nalpine_3_11|fail|fail|fail\nalpine_3_12|fail|fail|fail\nalpine_3_13|fail|fail|fail\nalpine_3_14|fail|fail|fail\nalpine_3_15|fail|fail|fail\nalpine_3_16|fail|fail|fail\nalpine_3_17|fail|fail|fail\nalpine_3_18|fail|fail|fail\nalpine_3_19|fail|fail|fail\nalpine_3_20|pass|pass|pass\nalpine_3_21|pass|pass|pass\nalpine_3_22|pass|pass|pass\ndebian_10_buster|fail|fail|fail\ndebian_11_bullseye|fail|fail|fail\ndebian_12_bookworm|fail|fail|fail\ndebian_7_wheezy|fail|fail|fail\ndebian_8_jessie|fail|fail|fail\ndebian_9_stretch|fail|fail|fail\nubuntu_12_precise|fail|fail|N/A\nubuntu_14_trusty|fail|fail|fail\nubuntu_16_xenial|fail|fail|fail\nubuntu_18_bionic|fail|fail|fail\nubuntu_20_focal|fail|fail|fail\nubuntu_22_jammy|fail|fail|fail\nubuntu_24_noble|fail|fail|fail\n### docker\nCompatibility rate: 100.0% (3 passed out of 3)\n\nOSes and distros|amd64|arm64|arm32v7\n-|-|-|-\nlinux|pass|pass|pass\n### npm\nCompatibility rate: 50.8% (32 passed out of 63)\n\nOSes and distros|amd64|arm64|arm32v7\n-|-|-|-\nalpine_3_13|pass|fail|fail\nalpine_3_14|pass|fail|fail\nalpine_3_15|pass|fail|fail\nalpine_3_16|pass|fail|fail\nalpine_3_17|pass|fail|fail\nalpine_3_18|pass|fail|fail\nalpine_3_19|pass|fail|fail\nalpine_3_20|pass|fail|fail\nalpine_3_21|pass|fail|fail\nalpine_3_22|pass|fail|fail\ndebian_10_buster|fail|fail|fail\ndebian_11_bullseye|pass|pass|pass\ndebian_12_bookworm|pass|pass|pass\nmacos-14|pass|pass|N/A\nubuntu_12_precise|fail|fail|N/A\nubuntu_14_trusty|fail|fail|fail\nubuntu_16_xenial|fail|fail|fail\nubuntu_18_bionic|pass|pass|pass\nubuntu_20_focal|pass|pass|pass\nubuntu_22_jammy|pass|pass|pass\nubuntu_24_noble|pass|pass|pass\nwindows-2022|pass|N/A|N/A\nwindows-2025|pass|N/A|N/A\n### npx\nCompatibility rate: 25.0% (15 passed out of 60)\n\nOSes and distros|amd64|arm64|arm32v7\n-|-|-|-\nalpine_3_13|fail|fail|fail\nalpine_3_14|fail|fail|fail\nalpine_3_15|fail|fail|fail\nalpine_3_16|pass|fail|fail\nalpine_3_17|pass|fail|fail\nalpine_3_18|pass|fail|fail\nalpine_3_19|pass|fail|fail\nalpine_3_20|pass|fail|fail\nalpine_3_21|pass|fail|fail\nalpine_3_22|pass|fail|fail\ndebian_10_buster|fail|fail|fail\ndebian_11_bullseye|pass|fail|fail\ndebian_12_bookworm|pass|fail|fail\nmacos-14|pass|pass|N/A\nubuntu_12_precise|fail|fail|N/A\nubuntu_14_trusty|N/A|fail|fail\nubuntu_16_xenial|N/A|fail|fail\nubuntu_18_bionic|N/A|fail|fail\nubuntu_20_focal|fail|fail|fail\nubuntu_22_jammy|pass|fail|fail\nubuntu_24_noble|pass|fail|fail\nwindows-2022|pass|N/A|N/A\nwindows-2025|pass|N/A|N/A\n### pip\nCompatibility rate: 50.0% (32 passed out of 64)\n\nOSes and distros|amd64|arm64|arm32v7\n-|-|-|-\nalpine_3_13|fail|fail|fail\nalpine_3_14|fail|fail|fail\nalpine_3_15|fail|fail|fail\nalpine_3_16|fail|fail|fail\nalpine_3_17|fail|fail|fail\nalpine_3_18|fail|fail|fail\nalpine_3_19|fail|fail|fail\nalpine_3_20|pass|pass|pass\nalpine_3_21|pass|pass|pass\nalpine_3_22|pass|pass|pass\ndebian_10_buster|fail|fail|fail\ndebian_11_bullseye|pass|pass|pass\ndebian_12_bookworm|pass|pass|pass\nmacos-14|pass|pass|N/A\npython3_13|pass|pass|pass\npython3_13_alpine3_19|fail|fail|fail\nubuntu_16_xenial|fail|fail|fail\nubuntu_18_bionic|pass|fail|fail\nubuntu_20_focal|pass|pass|pass\nubuntu_22_jammy|pass|pass|pass\nubuntu_24_noble|pass|pass|pass\nwindows-2022|pass|N/A|N/A\nwindows-2025|pass|N/A|N/A\n",
   "reactions": {
     "url": "https://api.github.com/repos/icloud-photos-downloader/icloud_photos_downloader/releases/332017235/reactions",
-    "total_count": 7,
-    "+1": 7,
+    "total_count": 8,
+    "+1": 8,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
