@@ -4,7 +4,7 @@
 
 A command-line tool to download photos from iCloud
 
-[![x-cmd/install — icloud_photos_downloader Code Quality Monitoring Repo Card](https://repo.x-cmd.io/icloud_photos_downloader.svg)](https://x-cmd.com/install/icloud_photos_downloader)
+[![x-cmd/install — icloud_photos_downloader Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/icloud_photos_downloader.svg)](https://x-cmd.com/install/icloud_photos_downloader)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,264 · **Forks**: 836 · **Open issues**: 655 · **Contributors**: 43
+- **Stars**: 12,266 · **Forks**: 837 · **Open issues**: 655 · **Contributors**: 43
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 5 | 0 | 9 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 6 | 1 | 12 | 0 |
-| last180d | 2026-03-26 | 1 | 3 | 11 | 7 | 20 | 13 |
-| 360d | 2025-09-27 | 1 | 3 | 24 | 14 | 52 | 14 |
-| last720d | 2024-10-02 | 29 | 104 | 37 | 117 | 90 | 184 |
+| 30d | 2026-08-24 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 5 | 0 | 9 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 6 | 1 | 12 | 0 |
+| last180d | 2026-03-27 | 1 | 3 | 11 | 7 | 20 | 13 |
+| 360d | 2025-09-28 | 1 | 3 | 24 | 13 | 51 | 14 |
+| last720d | 2024-10-03 | 29 | 104 | 37 | 116 | 90 | 184 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for icloud_photos_downloader lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:27:49Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:41:05Z._
