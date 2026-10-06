@@ -30,8 +30,8 @@ Overall score: **3.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,292 · **Forks**: 847 · **Open issues**: 656 · **Contributors**: 43
+- **Stars**: 12,293 · **Forks**: 848 · **Open issues**: 657 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 379 · **Open PRs**: 41 · **Closed issues**: 513 · **Open issues**: 143 · **Commits**: 994
+- **Releases**: 81 · **Merged PRs**: 379 · **Open PRs**: 41 · **Closed issues**: 513 · **Open issues**: 144 · **Commits**: 994
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 6 | 0 | 2 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 8 | 0 | 6 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 10 | 1 | 13 | 0 |
-| last180d | 2026-04-08 | 1 | 3 | 15 | 5 | 21 | 13 |
-| 360d | 2025-10-10 | 1 | 3 | 28 | 12 | 51 | 14 |
-| last720d | 2024-10-15 | 29 | 102 | 40 | 114 | 91 | 183 |
+| 30d | 2026-09-06 | 0 | 0 | 5 | 0 | 3 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 8 | 0 | 7 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 10 | 1 | 14 | 0 |
+| last180d | 2026-04-09 | 1 | 3 | 15 | 5 | 22 | 13 |
+| 360d | 2025-10-11 | 1 | 3 | 28 | 12 | 52 | 14 |
+| last720d | 2024-10-16 | 29 | 102 | 40 | 114 | 92 | 182 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for icloud_photos_downloader lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:52:13Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:36:25Z._
