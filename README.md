@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,330 · **Forks**: 849 · **Open issues**: 663 · **Contributors**: 43
+- **Stars**: 12,333 · **Forks**: 850 · **Open issues**: 663 · **Contributors**: 43
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 5 | 1 | 7 | 0 |
-| last60d | 2026-08-20 | 0 | 0 | 8 | 2 | 8 | 0 |
-| 90d | 2026-07-21 | 0 | 0 | 10 | 2 | 15 | 0 |
-| last180d | 2026-04-22 | 1 | 2 | 15 | 7 | 25 | 12 |
-| 360d | 2025-10-24 | 1 | 3 | 29 | 14 | 54 | 14 |
-| last720d | 2024-10-29 | 27 | 97 | 41 | 109 | 95 | 174 |
+| 30d | 2026-09-20 | 0 | 0 | 5 | 1 | 7 | 0 |
+| last60d | 2026-08-21 | 0 | 0 | 8 | 2 | 8 | 0 |
+| 90d | 2026-07-22 | 0 | 0 | 10 | 2 | 15 | 0 |
+| last180d | 2026-04-23 | 1 | 2 | 15 | 7 | 25 | 12 |
+| 360d | 2025-10-25 | 1 | 3 | 29 | 14 | 52 | 14 |
+| last720d | 2024-10-30 | 27 | 97 | 41 | 109 | 95 | 174 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for icloud_photos_downloader lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:44:03Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T06:07:16Z._
