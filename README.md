@@ -14,12 +14,12 @@ x install icloud_photos_downloader
 
 ## Code insight
 
-Total: **620,729** lines of code across **149** files in the top 5 languages.
+Total: **620,737** lines of code across **149** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 604,550 | 0 | 10 | 35 |
-| Python | 15,084 | 762 | 2,457 | 82 |
+| Python | 15,092 | 764 | 2,457 | 82 |
 | Html | 257 | 0 | 4 | 9 |
 | Sh | 206 | 33 | 36 | 2 |
 | Bash | 179 | 91 | 57 | 21 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.32.3` (2026-05-30)
-- **Last commit**: 2026-05-30
+- **Last commit**: 2026-10-26
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 12,338 · **Forks**: 854 · **Open issues**: 664 · **Contributors**: 43
+- **Stars**: 12,340 · **Forks**: 854 · **Open issues**: 664 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 379 · **Open PRs**: 44 · **Closed issues**: 515 · **Open issues**: 149 · **Commits**: 994
+- **Releases**: 81 · **Merged PRs**: 380 · **Open PRs**: 45 · **Closed issues**: 515 · **Open issues**: 149 · **Commits**: 999
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 7 | 1 | 7 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 10 | 2 | 8 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 12 | 2 | 15 | 0 |
-| last180d | 2026-04-29 | 1 | 2 | 15 | 7 | 26 | 12 |
-| 360d | 2025-10-31 | 1 | 3 | 31 | 14 | 53 | 14 |
-| last720d | 2024-11-05 | 25 | 93 | 43 | 104 | 96 | 169 |
+| 30d | 2026-09-27 | 0 | 1 | 8 | 1 | 7 | 4 |
+| last60d | 2026-08-28 | 0 | 1 | 10 | 2 | 8 | 4 |
+| 90d | 2026-07-29 | 0 | 1 | 13 | 2 | 13 | 4 |
+| last180d | 2026-04-30 | 1 | 3 | 16 | 6 | 26 | 16 |
+| 360d | 2025-11-01 | 1 | 4 | 32 | 14 | 53 | 18 |
+| last720d | 2024-11-06 | 25 | 94 | 44 | 103 | 96 | 174 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for icloud_photos_downloader lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:58:26Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:24:54Z._
