@@ -14,12 +14,12 @@ x install icloud_photos_downloader
 
 ## Code insight
 
-Total: **621,869** lines of code across **156** files in the top 5 languages.
+Total: **622,520** lines of code across **160** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 604,577 | 0 | 10 | 36 |
-| Python | 16,011 | 785 | 2,609 | 87 |
+| Python | 16,661 | 801 | 2,724 | 91 |
 | Bash | 368 | 114 | 69 | 22 |
 | Html | 257 | 0 | 4 | 9 |
 | Sh | 203 | 32 | 36 | 2 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.32.3` (2026-05-30)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 12,357 · **Forks**: 854 · **Open issues**: 666 · **Contributors**: 48
+- **Stars**: 12,360 · **Forks**: 860 · **Open issues**: 668 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 406 · **Open PRs**: 42 · **Closed issues**: 526 · **Open issues**: 140 · **Commits**: 1077
+- **Releases**: 81 · **Merged PRs**: 414 · **Open PRs**: 25 · **Closed issues**: 529 · **Open issues**: 139 · **Commits**: 1100
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 23 | 4 | 3 | 7 | 43 |
-| last60d | 2026-09-01 | 0 | 26 | 7 | 4 | 8 | 46 |
-| 90d | 2026-08-02 | 0 | 26 | 10 | 6 | 11 | 46 |
-| last180d | 2026-05-04 | 1 | 28 | 13 | 11 | 22 | 58 |
-| 360d | 2025-11-05 | 1 | 29 | 29 | 22 | 46 | 60 |
-| last720d | 2024-11-10 | 25 | 119 | 41 | 112 | 86 | 252 |
+| 30d | 2026-10-02 | 0 | 30 | 5 | 3 | 9 | 54 |
+| last60d | 2026-09-02 | 0 | 33 | 8 | 4 | 10 | 57 |
+| 90d | 2026-08-03 | 0 | 34 | 10 | 6 | 13 | 58 |
+| last180d | 2026-05-05 | 1 | 36 | 13 | 12 | 23 | 70 |
+| 360d | 2025-11-06 | 1 | 37 | 21 | 23 | 47 | 75 |
+| last720d | 2024-11-11 | 25 | 126 | 24 | 114 | 85 | 275 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for icloud_photos_downloader lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:50:41Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:16:20Z._
