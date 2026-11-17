@@ -14,25 +14,15 @@ x install icloud_photos_downloader
 
 ## Code insight
 
-Total: **625,084** lines of code across **169** files in the top 5 languages.
+Total: **625,510** lines of code across **171** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 604,544 | 0 | 10 | 36 |
-| Python | 19,258 | 830 | 3,041 | 100 |
+| Python | 19,684 | 849 | 3,093 | 102 |
 | Bash | 368 | 114 | 69 | 22 |
 | Html | 257 | 0 | 4 | 9 |
 | Sh | 203 | 32 | 36 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **5 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -42,27 +32,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.33.0` (2026-11-05)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-17
 - **Assets in release**: 32
 
 ## Popularity
 
-- **Stars**: 12,437 · **Forks**: 872 · **Open issues**: 674 · **Contributors**: 53
+- **Stars**: 12,475 · **Forks**: 874 · **Open issues**: 675 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 435 · **Open PRs**: 35 · **Closed issues**: 578 · **Open issues**: 96 · **Commits**: 1160
+- **Releases**: 82 · **Merged PRs**: 444 · **Open PRs**: 27 · **Closed issues**: 587 · **Open issues**: 88 · **Commits**: 1189
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 49 | 25 | 5 | 7 | 87 |
-| last60d | 2026-09-17 | 1 | 53 | 26 | 7 | 12 | 92 |
-| 90d | 2026-08-18 | 1 | 54 | 28 | 9 | 12 | 93 |
-| last180d | 2026-05-20 | 2 | 56 | 30 | 19 | 21 | 105 |
-| 360d | 2025-11-21 | 2 | 57 | 33 | 39 | 34 | 110 |
-| last720d | 2024-11-26 | 25 | 144 | 34 | 141 | 58 | 330 |
+| 30d | 2026-10-18 | 1 | 58 | 17 | 6 | 6 | 97 |
+| last60d | 2026-09-18 | 1 | 62 | 18 | 11 | 9 | 102 |
+| 90d | 2026-08-19 | 1 | 63 | 20 | 13 | 9 | 103 |
+| last180d | 2026-05-21 | 2 | 65 | 22 | 25 | 15 | 115 |
+| 360d | 2025-11-22 | 2 | 66 | 25 | 46 | 28 | 120 |
+| last720d | 2024-11-27 | 25 | 153 | 26 | 150 | 50 | 359 |
 
 ## Release assets
 
@@ -110,4 +100,4 @@ Install metadata for icloud_photos_downloader lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:30:28Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:54:08Z._
