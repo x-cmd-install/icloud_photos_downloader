@@ -14,12 +14,12 @@ x install icloud_photos_downloader
 
 ## 代码洞察
 
-合计: **626,250** 行代码（覆盖前 5 种语言、共 **176** 个文件）。
+合计: **627,331** 行代码（覆盖前 5 种语言、共 **182** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Yaml | 604,544 | 0 | 10 | 36 |
-| Python | 20,424 | 862 | 3,196 | 107 |
+| Python | 21,505 | 901 | 3,361 | 113 |
 | Bash | 368 | 114 | 69 | 22 |
 | Html | 257 | 0 | 4 | 9 |
 | Sh | 203 | 32 | 36 | 2 |
@@ -32,65 +32,65 @@ x install icloud_photos_downloader
 
 ## 发布
 
-- **最新版本**: `v1.33.1` (2026-11-18)
-- **最近提交**: 2026-11-20
+- **最新版本**: `v1.34.0` (2026-11-20)
+- **最近提交**: 2026-11-21
 - **Release 含资产**: 32 个
 
 ## 流行度
 
-- **Star**: 12,488 · **Fork**: 877 · **开放 issue**: 678 · **贡献者**: 55
+- **Star**: 12,491 · **Fork**: 879 · **开放 issue**: 680 · **贡献者**: 58
 
 ## 累计统计
 
-- **发布数**: 83 · **已合并 PR**: 457 · **开放 PR**: 20 · **已关闭 issue**: 605 · **开放 issue**: 73 · **提交数**: 1237
+- **发布数**: 84 · **已合并 PR**: 467 · **开放 PR**: 15 · **已关闭 issue**: 609 · **开放 issue**: 71 · **提交数**: 1304
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 71 | 10 | 11 | 4 | 123 |
-| last60d | 2026-09-21 | 2 | 75 | 11 | 16 | 7 | 128 |
-| 90d | 2026-08-22 | 2 | 76 | 13 | 17 | 7 | 129 |
-| last180d | 2026-05-24 | 3 | 78 | 15 | 31 | 12 | 141 |
-| 360d | 2025-11-25 | 3 | 79 | 18 | 56 | 21 | 146 |
-| last720d | 2024-11-30 | 26 | 166 | 19 | 162 | 41 | 404 |
+| 30d | 2026-10-22 | 3 | 80 | 5 | 13 | 4 | 146 |
+| last60d | 2026-09-22 | 3 | 85 | 6 | 19 | 6 | 151 |
+| 90d | 2026-08-23 | 3 | 86 | 8 | 20 | 6 | 152 |
+| last180d | 2026-05-25 | 4 | 88 | 10 | 34 | 11 | 164 |
+| 360d | 2025-11-26 | 4 | 89 | 13 | 58 | 19 | 169 |
+| last720d | 2024-12-01 | 27 | 175 | 14 | 163 | 40 | 471 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [compatibility-1.33.1.md](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/compatibility-1.33.1.md) | 3.2 KiB | `other` |
-| [icloud-1.33.1-linux-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloud-1.33.1-linux-amd64) | 35.5 MiB | `native/linux/x64` |
-| [icloud-1.33.1-linux-arm32v7](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloud-1.33.1-linux-arm32v7) | 33.1 MiB | `native/linux/arm` |
-| [icloud-1.33.1-linux-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloud-1.33.1-linux-arm64) | 34.7 MiB | `native/linux/arm64` |
-| [icloud-1.33.1-linux-musl-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloud-1.33.1-linux-musl-amd64) | 19.3 MiB | `native/linux/x64/musl` |
-| [icloud-1.33.1-linux-musl-arm32v7](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloud-1.33.1-linux-musl-arm32v7) | 15.8 MiB | `native/linux/arm/musl` |
-| [icloud-1.33.1-linux-musl-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloud-1.33.1-linux-musl-arm64) | 19.4 MiB | `native/linux/arm64/musl` |
-| [icloud-1.33.1-macos-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloud-1.33.1-macos-amd64) | 17.4 MiB | `native/darwin/x64` |
-| [icloud-1.33.1-macos-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloud-1.33.1-macos-arm64) | 18.6 MiB | `native/darwin/arm64` |
-| [icloud-1.33.1-windows-amd64.exe](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloud-1.33.1-windows-amd64.exe) | 19.3 MiB | `native/win/x64` |
-| [icloudpd-1.33.1-linux-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-linux-amd64) | 37.2 MiB | `native/linux/x64` |
-| [icloudpd-1.33.1-linux-arm32v7](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-linux-arm32v7) | 34.8 MiB | `native/linux/arm` |
-| [icloudpd-1.33.1-linux-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-linux-arm64) | 36.5 MiB | `native/linux/arm64` |
-| [icloudpd-1.33.1-linux-musl-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-linux-musl-amd64) | 20.9 MiB | `native/linux/x64/musl` |
-| [icloudpd-1.33.1-linux-musl-arm32v7](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-linux-musl-arm32v7) | 17.4 MiB | `native/linux/arm/musl` |
-| [icloudpd-1.33.1-linux-musl-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-linux-musl-arm64) | 21.0 MiB | `native/linux/arm64/musl` |
-| [icloudpd-1.33.1-macos-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-macos-amd64) | 19.0 MiB | `native/darwin/x64` |
-| [icloudpd-1.33.1-macos-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-macos-arm64) | 20.2 MiB | `native/darwin/arm64` |
-| [icloudpd-1.33.1-oci.tar](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-oci.tar) | 243.4 MiB | `other` |
-| [icloudpd-1.33.1-py2.py3-none-macosx_13_0_arm64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py2.py3-none-macosx_13_0_arm64.whl) | 38.1 MiB | `native/darwin/arm64` |
-| [icloudpd-1.33.1-py2.py3-none-macosx_13_0_x86_64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py2.py3-none-macosx_13_0_x86_64.whl) | 35.7 MiB | `native/darwin/x64` |
-| [icloudpd-1.33.1-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl) | 72.6 MiB | `native/linux/x64` |
-| [icloudpd-1.33.1-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl) | 71.0 MiB | `native/linux/arm64` |
-| [icloudpd-1.33.1-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl) | 67.6 MiB | `native/linux/arm` |
-| [icloudpd-1.33.1-py2.py3-none-musllinux_1_2_aarch64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py2.py3-none-musllinux_1_2_aarch64.whl) | 39.7 MiB | `native/linux/arm64/musl` |
-| [icloudpd-1.33.1-py2.py3-none-musllinux_1_2_armv7l.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py2.py3-none-musllinux_1_2_armv7l.whl) | 32.6 MiB | `native/linux/arm/musl` |
-| [icloudpd-1.33.1-py2.py3-none-musllinux_1_2_x86_64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py2.py3-none-musllinux_1_2_x86_64.whl) | 39.4 MiB | `native/linux/x64/musl` |
-| [icloudpd-1.33.1-py2.py3-none-win_amd64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py2.py3-none-win_amd64.whl) | 39.3 MiB | `other` |
-| [icloudpd-1.33.1-py3-none-any.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-py3-none-any.whl) | 90.4 KiB | `other` |
-| [icloudpd-1.33.1-windows-amd64.exe](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/icloudpd-1.33.1-windows-amd64.exe) | 20.9 MiB | `native/win/x64` |
-| [notes-1.33.1.md](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/notes-1.33.1.md) | 9.0 KiB | `other` |
-| [tzlc-1.33.1.md](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.33.1/tzlc-1.33.1.md) | 3.4 KiB | `other` |
+| [compatibility-1.34.0.md](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/compatibility-1.34.0.md) | 3.2 KiB | `other` |
+| [icloud-1.34.0-linux-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloud-1.34.0-linux-amd64) | 35.5 MiB | `native/linux/x64` |
+| [icloud-1.34.0-linux-arm32v7](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloud-1.34.0-linux-arm32v7) | 33.1 MiB | `native/linux/arm` |
+| [icloud-1.34.0-linux-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloud-1.34.0-linux-arm64) | 34.7 MiB | `native/linux/arm64` |
+| [icloud-1.34.0-linux-musl-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloud-1.34.0-linux-musl-amd64) | 19.3 MiB | `native/linux/x64/musl` |
+| [icloud-1.34.0-linux-musl-arm32v7](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloud-1.34.0-linux-musl-arm32v7) | 15.8 MiB | `native/linux/arm/musl` |
+| [icloud-1.34.0-linux-musl-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloud-1.34.0-linux-musl-arm64) | 19.4 MiB | `native/linux/arm64/musl` |
+| [icloud-1.34.0-macos-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloud-1.34.0-macos-amd64) | 17.4 MiB | `native/darwin/x64` |
+| [icloud-1.34.0-macos-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloud-1.34.0-macos-arm64) | 18.6 MiB | `native/darwin/arm64` |
+| [icloud-1.34.0-windows-amd64.exe](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloud-1.34.0-windows-amd64.exe) | 19.3 MiB | `native/win/x64` |
+| [icloudpd-1.34.0-linux-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-linux-amd64) | 37.2 MiB | `native/linux/x64` |
+| [icloudpd-1.34.0-linux-arm32v7](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-linux-arm32v7) | 34.8 MiB | `native/linux/arm` |
+| [icloudpd-1.34.0-linux-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-linux-arm64) | 36.5 MiB | `native/linux/arm64` |
+| [icloudpd-1.34.0-linux-musl-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-linux-musl-amd64) | 20.9 MiB | `native/linux/x64/musl` |
+| [icloudpd-1.34.0-linux-musl-arm32v7](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-linux-musl-arm32v7) | 17.4 MiB | `native/linux/arm/musl` |
+| [icloudpd-1.34.0-linux-musl-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-linux-musl-arm64) | 21.0 MiB | `native/linux/arm64/musl` |
+| [icloudpd-1.34.0-macos-amd64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-macos-amd64) | 19.0 MiB | `native/darwin/x64` |
+| [icloudpd-1.34.0-macos-arm64](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-macos-arm64) | 20.2 MiB | `native/darwin/arm64` |
+| [icloudpd-1.34.0-oci.tar](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-oci.tar) | 243.4 MiB | `other` |
+| [icloudpd-1.34.0-py2.py3-none-macosx_13_0_arm64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py2.py3-none-macosx_13_0_arm64.whl) | 38.1 MiB | `native/darwin/arm64` |
+| [icloudpd-1.34.0-py2.py3-none-macosx_13_0_x86_64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py2.py3-none-macosx_13_0_x86_64.whl) | 35.7 MiB | `native/darwin/x64` |
+| [icloudpd-1.34.0-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl) | 72.6 MiB | `native/linux/x64` |
+| [icloudpd-1.34.0-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py2.py3-none-manylinux2014_aarch64.manylinux_2_17_aarch64.whl) | 71.0 MiB | `native/linux/arm64` |
+| [icloudpd-1.34.0-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py2.py3-none-manylinux2014_armv7l.manylinux_2_17_armv7l.whl) | 67.7 MiB | `native/linux/arm` |
+| [icloudpd-1.34.0-py2.py3-none-musllinux_1_2_aarch64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py2.py3-none-musllinux_1_2_aarch64.whl) | 39.7 MiB | `native/linux/arm64/musl` |
+| [icloudpd-1.34.0-py2.py3-none-musllinux_1_2_armv7l.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py2.py3-none-musllinux_1_2_armv7l.whl) | 32.6 MiB | `native/linux/arm/musl` |
+| [icloudpd-1.34.0-py2.py3-none-musllinux_1_2_x86_64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py2.py3-none-musllinux_1_2_x86_64.whl) | 39.4 MiB | `native/linux/x64/musl` |
+| [icloudpd-1.34.0-py2.py3-none-win_amd64.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py2.py3-none-win_amd64.whl) | 39.3 MiB | `other` |
+| [icloudpd-1.34.0-py3-none-any.whl](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-py3-none-any.whl) | 95.2 KiB | `other` |
+| [icloudpd-1.34.0-windows-amd64.exe](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/icloudpd-1.34.0-windows-amd64.exe) | 20.9 MiB | `native/win/x64` |
+| [notes-1.34.0.md](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/notes-1.34.0.md) | 9.7 KiB | `other` |
+| [tzlc-1.34.0.md](https://github.com/icloud-photos-downloader/icloud_photos_downloader/releases/download/v1.34.0/tzlc-1.34.0.md) | 3.4 KiB | `other` |
 
 ## 改进这些数据
 
@@ -101,4 +101,4 @@ icloud_photos_downloader 的安装元数据由 [x-cmd/install](https://github.co
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T10:19:59Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T09:04:36Z._
