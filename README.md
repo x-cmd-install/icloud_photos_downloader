@@ -38,22 +38,22 @@ Total: **627,331** lines of code across **182** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,491 · **Forks**: 879 · **Open issues**: 680 · **Contributors**: 58
+- **Stars**: 12,496 · **Forks**: 879 · **Open issues**: 680 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 467 · **Open PRs**: 15 · **Closed issues**: 609 · **Open issues**: 71 · **Commits**: 1304
+- **Releases**: 84 · **Merged PRs**: 467 · **Open PRs**: 16 · **Closed issues**: 608 · **Open issues**: 72 · **Commits**: 1304
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 80 | 5 | 13 | 4 | 146 |
-| last60d | 2026-09-22 | 3 | 85 | 6 | 19 | 6 | 151 |
-| 90d | 2026-08-23 | 3 | 86 | 8 | 20 | 6 | 152 |
-| last180d | 2026-05-25 | 4 | 88 | 10 | 34 | 11 | 164 |
-| 360d | 2025-11-26 | 4 | 89 | 13 | 58 | 19 | 169 |
-| last720d | 2024-12-01 | 27 | 175 | 14 | 163 | 40 | 471 |
+| 30d | 2026-10-23 | 3 | 80 | 6 | 13 | 4 | 146 |
+| last60d | 2026-09-23 | 3 | 85 | 7 | 18 | 7 | 151 |
+| 90d | 2026-08-24 | 3 | 86 | 9 | 19 | 7 | 152 |
+| last180d | 2026-05-26 | 4 | 88 | 11 | 33 | 12 | 164 |
+| 360d | 2025-11-27 | 4 | 89 | 14 | 57 | 20 | 169 |
+| last720d | 2024-12-02 | 27 | 174 | 15 | 161 | 41 | 471 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for icloud_photos_downloader lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T09:04:35Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:48:24Z._
